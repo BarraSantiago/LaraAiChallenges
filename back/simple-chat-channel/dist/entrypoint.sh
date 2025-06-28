@@ -59,7 +59,7 @@ case $COMMAND in
         run_tests $*
     ;;
     *)
-        echo "[!] Invalid or no command specified. Available commands: start, test, shell"
+        echo "[!] Invalid or no command specified. Available commands: start, migrate, test, shell"
         exit 1
     ;;
 esac
