@@ -1,6 +1,6 @@
 {
   "name": "@meetlara/simple-chat-challenge",
-  "version": "1.0.0",
+  "version": "1.22.22",
   "private": true,
   "description": "Simple Chat Channel to see if your challenge is working as expected.",
   "repository": {
