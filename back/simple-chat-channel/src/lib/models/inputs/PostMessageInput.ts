@@ -1,6 +1,5 @@
 import { BaseModel, ModelValidationError } from "@alanszp/validations";
-import { IsBoolean, IsNotEmpty, IsObject, IsOptional, IsString } from "class-validator";
-import { Button, IsButton } from "../validators/PostMessageBodyValidator";
+import { Button } from "../validators/PostMessageBodyValidator";
 
 export interface PostMessageBody {
   employeeId: string;
